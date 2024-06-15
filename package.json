@@ -11,7 +11,10 @@
     "type": "git",
     "url": "https://github.com/loc-eoh/NodeJS.git"
   },
-  "keywords": [],
+  "keywords": [
+    "node",
+    "blog"
+  ],
   "author": "locdp",
   "license": "ISC",
   "dependencies": {
